@@ -160,4 +160,4 @@ webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.3
 widgetsnbextension==4.0.10
-wrapt==1.16.0
+wrapt==1.14.0
