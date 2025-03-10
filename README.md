@@ -1,3 +1,3 @@
-# **Prediction of Cervical Canal Stenosis (CCS) with T2 Sagittal MRI**
+# **Predicting Cervical Canal Stenosis (CCS) from T2 Mid-sagittal MRI**
 
-### **Introduction**
+## **Introduction**
