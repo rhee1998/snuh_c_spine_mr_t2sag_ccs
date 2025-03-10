@@ -1,1 +1,3 @@
-# snuh_c_spine_mr_t2sag_ccs
+# **Prediction of Cervical Canal Stenosis (CCS) with T2-Weighted Sagittal MRI**
+
+### **Introduction**
