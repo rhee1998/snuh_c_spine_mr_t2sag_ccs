@@ -60,8 +60,8 @@ model
 |   |-- weights_2.hdf5
 |
 |-- VGG16
-|   |-- weights_0.hdf5
-|   |-- weights_1.hdf5
-|   |-- weights_2.hdf5
+    |-- weights_0.hdf5
+    |-- weights_1.hdf5
+    |-- weights_2.hdf5
 ```
 
