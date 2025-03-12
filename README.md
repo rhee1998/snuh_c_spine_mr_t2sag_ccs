@@ -71,8 +71,8 @@ model
 
 | Patient        | Description                                         | Kang Grade  | Label |
 |:---------------|:----------------------------------------------------|:-----------:|:-----:|
-|**Patient #0**  | 70-year-old female with no cervical canal stenosis  | 0           | 0     |
-|**Patient #1**  | 62-year-old male with cervical canal stenosis       | 3           | 1     |
+|**Case 0**  | 70-year-old female with no cervical canal stenosis  | 0           | 0     |
+|**Case 1**  | 62-year-old male with cervical canal stenosis       | 3           | 1     |
 
 ### **2.2. Input Data (MRI Slices)**
 
