@@ -45,25 +45,19 @@ model
 |   |-- log_reg__sex__auc=0.9537.pkl
 |
 |-- EfficientNetV2
-|   |-- weights_0.hdf5
-|   |-- weights_1.hdf5
-|   |-- weights_2.hdf5
+|   |-- weights_0.hdf5; weights_1.hdf5; weights_2.hdf5
 |
 |-- MobileNetV3
-|   |-- weights_0.hdf5
-|   |-- weights_1.hdf5
-|   |-- weights_2.hdf5
+|   |-- weights_0.hdf5; weights_1.hdf5; weights_2.hdf5
 |
 |-- ResNet50
-|   |-- weights_0.hdf5
-|   |-- weights_1.hdf5
-|   |-- weights_2.hdf5
+|   |-- weights_0.hdf5; weights_1.hdf5; weights_2.hdf5
 |
 |-- VGG16
-    |-- weights_0.hdf5
-    |-- weights_1.hdf5
-    |-- weights_2.hdf5
+    |-- weights_0.hdf5; weights_1.hdf5; weights_2.hdf5
 ```
+
+* Model archi
 
 # **2. Sample Inputs**
 ## **2.1. Demographic Information**
