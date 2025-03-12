@@ -9,7 +9,7 @@
 
 ## **1. Environment Setup**
 ### **1.1. Create a New (Virtual) Environment**
-* `python = 3.11.9`
+* `python = 3.11.0`
 
 ### **1.2. Install Packages**
 * `matplotlib = 3.9.0`
