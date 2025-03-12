@@ -23,7 +23,7 @@
 ### **1.3. Clone this GitHub Repository**
 
 ```bash
-git clone 
+git clone https://github.com/rhee1998/snuh_c_spine_mr_t2sag_ccs.git
 ```
 
 ### **1.4. Download Model Weights from HuggingFace Repository**
