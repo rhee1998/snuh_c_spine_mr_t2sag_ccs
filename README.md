@@ -13,12 +13,12 @@
 
 ### **1.2. Install Packages**
 * `matplotlib = 3.9.0`
-* `numpy = 1.24.3`
-* `opencv-python = 4.11.0.86`
-* `pandas = 2.2.2`
+* `numpy = 1.24.0`
+* `opencv-python = 4.11.0`
+* `pandas = 2.2.3`
 * `scikit-learn = 1.4.2`
 * `scipy = 1.13.0`
-* `tensorflow = 2.13.0`
+* `tensorflow = 2.14.0`
 
 ### **1.3. Clone this GitHub Repository**
 
