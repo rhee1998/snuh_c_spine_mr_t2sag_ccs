@@ -69,6 +69,14 @@ model
 ### **2.1. Demographic Information**
 * As an example, we have uploaded two sample cases
 
+table tr {
+  background-color: #ffffff; /* 기본 배경색 */
+}
+
+table th {
+  background-color: #f0f0f0; /* 헤더 배경색 */
+}
+
 <table>
     <tr>
         <th>Case</th>
