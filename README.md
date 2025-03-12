@@ -16,8 +16,8 @@
 * `numpy = 1.24.0`
 * `opencv-python = 4.11.0`
 * `pandas = 2.2.3`
-* `scikit-learn = 1.4.2`
-* `scipy = 1.13.0`
+* `scikit-learn = 1.6.1`
+* `scipy = 1.15.2`
 * `tensorflow = 2.14.0`
 
 ### **1.3. Clone this GitHub Repository**
