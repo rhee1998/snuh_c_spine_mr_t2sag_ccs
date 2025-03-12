@@ -4,7 +4,7 @@
 
 * This repository contains `python` scripts for executing deep learning models that predict **cervical canal stenosis (CCS)** from **mid-sagittal T2-weighted MRI** of the cervical spine.
 
-* For more information, plese refer to our article titled, ***"Deep learning-based prediction of cervical canal stenosis from mid-sagittal T2-weighted MRI"***, authored by Wounsuk Rhee MD, Sung Cheol Park MD, Hyoungmin Kim MD PhD (Corresponding author), Bong-Soon Chang MD PhD, and Sam Yeol Chang MD. (Currently under review)
+* For more information, plese refer to our article titled, ***"Deep learning-based prediction of cervical canal stenosis from mid-sagittal T2-weighted MRI"***, authored by ***Wounsuk Rhee MD, Sung Cheol Park MD, Hyoungmin Kim MD PhD (Corresponding author), Bong-Soon Chang MD PhD, and Sam Yeol Chang MD***. (Currently under review)
 
 
 ## **1. Environment Setup**
