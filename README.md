@@ -65,3 +65,20 @@ model
     |-- weights_2.hdf5
 ```
 
+## **2. Sample Inputs**
+### **2.1. Demographic Information**
+* As an example, we have uploaded two sample cases
+
+* **Patient #0** : 70-year-old female with no cervical canal stenosis (Kang grade 0; Label 0)
+
+* **Patient #1** : 62-year-old male with cervical canal stenosis (Kang grade 3; Label 1)
+
+### **2.2. Input Data (MRI Slices)**
+
+* Manually cropped sagittal T2-weighted MRI slices of shape `(224, 112)` are provided.
+
+* Three consecutive slices, in which the mid-sagittal section in the middle, are merged into a 3-channel RGB image
+
+* The merged image is taken as input for the deep learning model
+
+![](images/sample_inputs.png)
