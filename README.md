@@ -85,12 +85,11 @@ model
     </tr>
     <tr></tr>
     <tr>
-        <td>Patient#1</td>
+        <td>Patient #1</td>
         <td>62-year-old male with cervical canal stenosis</td>
         <td>3</td>
         <td>1</td>
     </tr>
-    <tr></tr>
 </table>
 
 ### **2.2. Input Data (MRI Slices)**
