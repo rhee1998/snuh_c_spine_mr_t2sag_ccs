@@ -76,18 +76,21 @@ model
         <th style="background-color": #f0f0f0;">Kang Grade</th>
         <th style="background-color": #f0f0f0;">CCS Label</th>
     </tr>
+    <tr></tr>
     <tr>
         <td>Patient #0</td>
         <td>70-year-old female with no cervical canal stenosis</td>
         <td>0</td>
         <td>0</td>
     </tr>
+    <tr></tr>
     <tr>
         <td>Patient#1</td>
         <td>62-year-old male with cervical canal stenosis</td>
         <td>3</td>
         <td>1</td>
     </tr>
+    <tr></tr>
 </table>
 
 ### **2.2. Input Data (MRI Slices)**
