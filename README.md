@@ -57,7 +57,7 @@ model
     |-- weights_0.hdf5; weights_1.hdf5; weights_2.hdf5
 ```
 
-* Model archi
+* Models can be downloaded directly from our HuggingFace repository [here](https://huggingface.co/rhee1998/snuh_c_spine_mr_t2sag_ccs/tree/main)
 
 # **2. Sample Inputs**
 ## **2.1. Demographic Information**
