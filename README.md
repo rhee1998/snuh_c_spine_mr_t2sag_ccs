@@ -1,7 +1,7 @@
 # **Predicting Cervical Canal Stenosis (CCS) from T2 Mid-sagittal MRI**
 ---
 ## **Requirements**
-* `python` : 3.11.9
+* `python == 3.11.9`
 * `numpy` : 1.24.3
 * `pandas` : 2.2.2
 * `tensorflow` : 2.13.0
