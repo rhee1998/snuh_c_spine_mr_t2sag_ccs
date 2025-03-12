@@ -30,7 +30,7 @@ git clone https://github.com/rhee1998/snuh_c_spine_mr_t2sag_ccs.git
 
 * Please run `setup.py` to download model weights.
 ```bash
-cd /path/to/work/directory/
+cd /path/to/current/directory/
 python3 setup.py
 ```
 
