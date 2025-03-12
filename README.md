@@ -69,9 +69,10 @@ model
 ### **2.1. Demographic Information**
 * As an example, we have uploaded two sample cases
 
-* **Patient #0** : 70-year-old female with no cervical canal stenosis (Kang grade 0; Label 0)
-
-* **Patient #1** : 62-year-old male with cervical canal stenosis (Kang grade 3; Label 1)
+| Patient        | Description                                         | Kang Grade  | Label |
+|:---------------|:----------------------------------------------------|:-----------:|:-----:|
+|**Patient #0**  | 70-year-old female with no cervical canal stenosis  | 0           | 0     |
+|**Patient #1**  | 62-year-old male with cervical canal stenosis       | 3           | 1     |
 
 ### **2.2. Input Data (MRI Slices)**
 
