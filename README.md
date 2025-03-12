@@ -101,3 +101,16 @@ model
 * The merged image is taken as input for the deep learning model
 
 ![](images/sample_inputs.png)
+
+
+# **3. Run Model**
+
+* Jupyter notebook `run_sample.ipynb` contains `python` scripts to run trained models.
+
+* We have trained four different types of models: ResNet50, VGG16, MobileNetV3, and EfficientV2
+
+* Sample codes utilzing models that incorporate `age` and/or `sex` are provided.
+
+* Grad-CAM visualization code is provided as well.
+
+![](images/results_grad_cam.png)
