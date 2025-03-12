@@ -69,10 +69,26 @@ model
 ### **2.1. Demographic Information**
 * As an example, we have uploaded two sample cases
 
-| Patient        | Description                                         | Kang Grade  | Label |
-|:---------------|:----------------------------------------------------|:-----------:|:-----:|
-|**Case 0**  | 70-year-old female with no cervical canal stenosis  | 0           | 0     |
-|**Case 1**  | 62-year-old male with cervical canal stenosis       | 3           | 1     |
+<table>
+    <tr>
+        <th>Case</th>
+        <th>Description</th>
+        <th>Kang Grade</th>
+        <th>CCS Label</th>
+    </tr>
+    <tr>
+        <td>Patient #0</td>
+        <td>70-year-old female with no cervical canal stenosis</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Patient#1</td>
+        <td>62-year-old male with cervical canal stenosis</td>
+        <td>3</td>
+        <td>1</td>
+    </tr>
+</table>
 
 ### **2.2. Input Data (MRI Slices)**
 
