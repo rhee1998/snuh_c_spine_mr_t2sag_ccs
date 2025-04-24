@@ -8,8 +8,6 @@
 
 * If you find our paper and repository helpful, please cite our work:</br>
 
-  *Rhee, W., Park, S.C., Kim, H. et al. Deep learning-based prediction of cervical canal stenosis from mid-sagittal T2-weighted MRI. Skeletal Radiol (2025). https://doi.org/10.1007/s00256-025-04917-2*
-
 ```
 @article{rhee2025deep,
   title={Deep learning-based prediction of cervical canal stenosis from mid-sagittal T2-weighted MRI},
